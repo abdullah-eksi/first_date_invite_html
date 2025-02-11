@@ -2,8 +2,12 @@
 <html lang="tr">
 
 <head>
+	<meta name="robots" content="noindex, nofollow">
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="icon" type="image/png" href="https://cdn-icons-png.flaticon.com/512/6003/6003502.png" />
+
     <title>Benimle Dışarı Çıkar Mısın</title>
     <link rel="stylesheet" href="main.css?v=4">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
